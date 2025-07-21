@@ -1,5 +1,7 @@
 import argparse
 
+from main import operations
+
 
 parser = argparse.ArgumentParser(
                     prog='ProgramName',
